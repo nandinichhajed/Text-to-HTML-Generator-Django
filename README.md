@@ -19,7 +19,7 @@ This is an interesting project in which you can build an interface from where yo
 git clone https://github.com/nandinichhajed/Text-to-HTML-Generator-Django.git
 ```
 
-**Get project forlder**
+**Get project folder**
 
 ```bash
 cd Text-to-HTML-Generator-Django
